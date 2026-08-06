@@ -6,3 +6,5 @@ type messages into the form input and see them appear in real time on the home p
 
 use case: browser source real time chat bubbles
 future developments: adding 1) tts 2) ml to produce conversation (no input needed)
+
+see it working here: https://x.com/escaoftheabyss/status/1856443941408911822
